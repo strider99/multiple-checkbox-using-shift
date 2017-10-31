@@ -1,0 +1,1 @@
+### Hold shift and select to check multiple checkboxes. Vanilla js.
